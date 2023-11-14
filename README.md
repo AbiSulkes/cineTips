@@ -32,16 +32,7 @@ Público general y especializado, amantes del cine.
 
 
 ## Listado del grupo con una breve descripción de uno
-### Alonso, Graciela
-De Ramos Mejía, Provincia de Buenos Aires. Profesora de Enseñanza Primaria. Profesora de Informática Educativa. 
-Actualmente trabajo en un Centro de Formación Profesional  y Escuela Secundaria en  G.C.B.A.
 
-
-### Leone, Griselda
-De Río 3 - CBA. Colaboro en el mundo IT más desde el lado de la gestión y la ideación de productos digitales.
-
-### Pereira Clérice, Maria Martha 
-De C.A.B.A. - Docente de informática del G.C.A.B.A.
 
 ### Sulkes, Abigail
 De Buenos Aires, Argentina. Soy diseñadora gráfica, con experiencia en diseño ecommerce, recibida en FADU, UBA. Me gusta ser comprometida y una apasionada 
